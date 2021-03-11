@@ -10,8 +10,9 @@ election audit of a recent local congressional election.
 5. Determine the winner of the election based on popular vote.
 
 ### Resources
-*Data Source: election_results.csv
-*Software: Python 3.9.0, Visual Studio Code, 1.54.1
+
+* Data Source: election_results.csv
+* Software: Python 3.9.0, Visual Studio Code, 1.54.1
 
 ### Summary
 The analysis of the election show that:
