@@ -10,11 +10,10 @@ election audit of a recent local congressional election.
 5. Determine the winner of the election based on popular vote.
 
 ### Resources
-Data Source: election_results.csv
-Software: Python 3.9.0, Visual Studio Code, 1.54.1
+*Data Source: election_results.csv
+*Software: Python 3.9.0, Visual Studio Code, 1.54.1
 
 ### Summary
-
 The analysis of the election show that:
 There were "369,711" votes cast in the election.
 
@@ -29,7 +28,7 @@ There were "369,711" votes cast in the election.
 * Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
 
 #### The winner of the election was:
-o Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes.
+* Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes.
 
 
 Challenge Overview
